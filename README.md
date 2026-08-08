@@ -1,4 +1,4 @@
-# Smart-GreenhousE-IOT
+# Smart-Greenhouse-IOT
 my class 10 science exhibition greenhouse model arduino code
 # TERRAVISION V1.0 - Smart Greenhouse Automation System 🌿🤖
 
