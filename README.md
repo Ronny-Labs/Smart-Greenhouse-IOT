@@ -47,42 +47,6 @@ Add high-resolution PDFs to docs/ if available (docs/circuit-diagram.pdf).
 
 ---
 
-## How to run (short)
-
-1. Place hardware as shown in the wiring diagram.  
-2. Open code/greenhouse.ino in the Arduino IDE.  
-3. Edit any pin mappings or placeholders in the sketch (replace passwords with placeholders).  
-4. Upload the sketch to the Arduino Uno.  
-5. Use the serial monitor or a Bluetooth terminal app to read live sensor values.
-
----
-
-## Repository layout
-
-- docs/ — wiring diagrams, photos, thumbnails
-- code/ — Arduino sketch(s) and supporting files (put greenhouse.ino here)
-- PROFORMA.md — project proforma and write-up (already added)
-- README.md — this file
-
----
-
-## Add your files
-
-When you are ready, add or upload these files to these paths:
-
-- docs/greenhouse-hero.jpg  (prototype photo)
-- docs/circuit-diagram.png  (wiring diagram)
-- code/greenhouse.ino       (Arduino sketch)
-
-I will embed images automatically when they appear at the paths above.
-
----
-
-## Notes & safety
-
-- Do not commit real Wi‑Fi passwords or API keys — use placeholders (WIFI_SSID, WIFI_PASS_PLACEHOLDER).  
-- I will not modify your code files without your explicit approval.
-
 ---
 
 ## Credits
