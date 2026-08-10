@@ -5,7 +5,7 @@
 **Sub-theme:** Sustainable Agriculture (CBSE / RBVP Guidelines)
 
 **Contributing students:**
-- Team Leader / Lead Presenter: Ganesh Kharga
+- Presenter: Ganesh Kharga
 - Team Members: Debadutta Roy, Pratyush Pallav Pathak, Krishna Prasad, Zubaida Tabassum, Anmol Shah, Deep Das, Darshana Kalita
 
 **Guiding Teacher:** Mrs. Neetu Shaw
