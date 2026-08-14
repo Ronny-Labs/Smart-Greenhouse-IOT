@@ -1,6 +1,6 @@
 # TERRAVISION V1.0 - Smart Greenhouse Automation System 🌿🤖
 
-![AI Smart Greenhouse prototype](docs/greenhouse-hero.jpg)
+![AI Smart Greenhouse prototype](docs/greenhouse-prototype.png)
 
 An automated microclimate and soil monitoring ecosystem built with Arduino Uno, real-time Bluetooth telemetry (HC-05), and environmental actuators to manage irrigation, ventilation, heating and grow lights.
 
@@ -24,9 +24,9 @@ TERRAVISION is a classroom-scale smart greenhouse prototype that monitors soil m
 
 ## Embedded images & diagrams
 
-Wiring diagram (full):
+Circuit Diagram (full):
 
-![Wiring diagram](docs/circuit-diagram.png)
+![TERRAVISION circuit diagram](docs/terravision-circuit-diagram.png)
 
 Add high-resolution PDFs to docs/ if available (docs/circuit-diagram.pdf).
 
