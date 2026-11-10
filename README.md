@@ -9,7 +9,7 @@ An automated microclimate and soil monitoring ecosystem built with Arduino Uno, 
 ## Quick links
 
 - PROFORMA: [PROFORMA.md](PROFORMA.md)
-- Wiring diagram:![Reconstructed TERRAVISION V1 wiring and component reference](docs/terravision-v1-reconstructed-reference.png)
+- Wiring diagram: [Reconstructed TERRAVISION V1 reference](docs/terravision-v1-reconstructed-reference.png)
 - Code folder: code/
 
 > Note: This is a learning project — I am still learning C++ and embedded systems. Contributions and feedback are welcome!
