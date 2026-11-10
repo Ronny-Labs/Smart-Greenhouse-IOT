@@ -24,8 +24,7 @@ TERRAVISION is a classroom-scale smart greenhouse prototype that monitors soil m
 
 ## Embedded images & diagrams
 
-Circuit Diagram (full):
-
+Reconstructed wiring and component reference:
 Reconstructed TERRAVISION V1 wiring and component reference. Based on available project documentation and team recollections; some connections and thresholds remain unverified. Not a build-ready electrical schematic.
 
 ![Reconstructed TERRAVISION V1 wiring and component reference](docs/terravision-v1-reconstructed-reference.png)
